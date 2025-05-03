@@ -171,9 +171,11 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output  :
 ### LED OFF
-![WhatsApp Image 2025-05-01 at 09 21 45_601ddb4b](https://github.com/user-attachments/assets/bb9a3a2a-3254-4310-850a-c6e983c59a6f)
+![WhatsApp Image 2025-05-03 at 11 04 49_68b66481](https://github.com/user-attachments/assets/d5850cd1-23ff-457f-a01a-47bf0948c360)
+
 ### LED ON:
- ![WhatsApp Image 2025-05-01 at 09 21 46_d9812f8f](https://github.com/user-attachments/assets/c1362b25-bf9d-4826-bc80-14f9185124b9)
+![WhatsApp Image 2025-05-03 at 11 04 49_11070818](https://github.com/user-attachments/assets/43dab1f6-b9ce-4306-8fc7-7eb19331e4b9)
+
 
 ## layout of the circuit 
  ![WhatsApp Image 2025-05-01 at 10 04 19_9af84152](https://github.com/user-attachments/assets/bbfa87de-cf55-4f22-b787-d0f0272045ea)
